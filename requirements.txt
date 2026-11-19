@@ -1,1 +1,3 @@
-pytest
+# Dependencies of python-calculator
+# Runtime: Python standard library only. pytest is used for tests.
+pytest==9.2.0
